@@ -4,6 +4,7 @@ const Award = () => {
             <h1 className=" text-6xl">Awards</h1>
             <br />
             <p><i>I don't have any :(</i></p>
+            <p><i>(do scouts awards from highschool counted?)</i></p>
             {/* <ol className="list-inside list-none">
                 <li><i class="fa-solid fa-angle-right"></i> Award 1</li>
                 <li><i class="fa-solid fa-angle-right"></i> Award 2</li>

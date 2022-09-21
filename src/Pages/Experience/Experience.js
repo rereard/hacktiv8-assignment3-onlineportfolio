@@ -6,6 +6,7 @@ const Experience = () => {
             <br />
             {/* <ExperienceBox name="Kerja Bakti" subject="Kemasyarakatan" dateFrom="01/10/2022" dateTill="15/10/2022" desc="This is the experience description. This experience is fake. Don't trust this"/> */}
             <p><i>Sadly, I don't have any organization or work experience yet :'(</i></p>
+            <p><i>(do highschool organization counted?)</i></p>
         </div>
     )
 }
